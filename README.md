@@ -1,17 +1,11 @@
 <h1 align="center">
-  👋 Olá, eu sou o <strong>João Carlos</strong>
+  Olá, eu sou o <strong>João Carlos</strong> 👨‍💻
 </h1>
+
 <p align="center">
-  🚀 Developer Full Stack | 🎓 Estudante de Engenharia de Software
+  Estudante de <strong>Engenharia de Software</strong> <img src="https://img.icons8.com/color/48/graduation-cap.png" width="20"/> <br/>
+  
 </p>
-
----
-
-## 👨‍💻 Quem sou eu?
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente curso **Engenharia de Software** e tenho foco em criar soluções que realmente impactem a vida das pessoas.  
-Gosto de aprender novas ferramentas, enfrentar desafios e compartilhar conhecimento 🚀.
-
----
 <!-- <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoCarlosOT&show_icons=true&theme=tokyonight" alt="joaocarlos" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlosOT&hide_progress=true&theme=tokyonight" alt="joaocarlos" /></p>
