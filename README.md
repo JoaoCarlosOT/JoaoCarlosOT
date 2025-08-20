@@ -14,7 +14,7 @@ Gosto de aprender novas ferramentas, enfrentar desafios e compartilhar conhecime
 ---
 
 ## 🚀 Hard Skills:
-<div style="display: inline_block; margin-top:8px;"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BOOTSTRAP" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
@@ -41,21 +41,6 @@ Gosto de aprender novas ferramentas, enfrentar desafios e compartilhar conhecime
 - 🔹 Organização e foco em resultados  
 - 🔹 Proatividade e sede por conhecimento  
 - 🔹 Criatividade e adaptabilidade  
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoCarlosOT&show_icons=true&theme=tokyonight" alt="JoaoCarlosOT stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlosOT&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
-
----
-
-## 🌟 Projetos em Destaque:
-- 📝 [Sistema de Tarefas com Spring + JWT + OAuth2 + CI/CD](https://github.com/JoaoCarlosOT/nome-do-repo)  
-- 🐍 [Testes em Python (Web Scraping, API, DB)](https://github.com/JoaoCarlosOT/nome-do-repo)  
-- 💻 [Outro projeto top aqui](https://github.com/JoaoCarlosOT/nome-do-repo)  
 
 ---
 
