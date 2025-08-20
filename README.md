@@ -35,12 +35,12 @@ Gosto de aprender novas ferramentas, enfrentar desafios e compartilhar conhecime
 ---
 
 ## 🤝 Soft Skills:
-- 🔹 Trabalho em equipe colaborativo  
-- 🔹 Comunicação clara e empática  
-- 🔹 Resolução de problemas com pensamento lógico  
-- 🔹 Organização e foco em resultados  
-- 🔹 Proatividade e sede por conhecimento  
-- 🔹 Criatividade e adaptabilidade  
+🔹 Trabalho em equipe colaborativo  
+🔹 Comunicação clara e empática  
+🔹 Resolução de problemas com pensamento lógico  
+🔹 Organização e foco em resultados  
+🔹 Proatividade e sede por conhecimento  
+🔹 Criatividade e adaptabilidade  
 
 ---
 
