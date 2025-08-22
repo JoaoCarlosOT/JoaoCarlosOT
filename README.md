@@ -1,16 +1,23 @@
-<h1 align="center">
-  Olá, eu sou o <strong>João Carlos</strong> 👨‍💻
-</h1>
+<img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="100%" height="400px"/>
 
-<p align="center">
-  Estudante de <strong>Engenharia de Software</strong> <img src="https://img.icons8.com/color/48/graduation-cap.png" width="20"/> <br/>
-  
-</p>
-<!-- <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoCarlosOT&show_icons=true&theme=tokyonight" alt="joaocarlos" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlosOT&hide_progress=true&theme=tokyonight" alt="joaocarlos" /></p>
-</div> -->
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" style="border-radius: 50%;" />
+      </td>
+      <td>
+        <h1>👋 Olá, eu sou o <strong>João Carlos</strong></h1>
+        <p>
+          Estudante de <strong>Engenharia de Software</strong> 🎓 <br/><br/>
+          Apaixonado por tecnologia, programação e resolução de problemas. <br/>
+          Tenho experiência com desenvolvimento web e busco sempre evoluir, explorando novas ferramentas e boas práticas.<br/><br/>
+          🚀 Atualmente focado em: <strong>Node.js, React e TypeScript</strong>.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div style="display: inline_block; margin-top:8px;"><br>
   <h2>🚀 Hard Skills:</h2>
@@ -32,24 +39,24 @@
 </div><br>
 
 ## <img src="https://img.icons8.com/fluency/48/conference-call.png" width="25"/> Soft Skills:
+- 🤝 Trabalho em equipe colaborativo  
+- 🗣 Comunicação clara e empática  
+- 🧩 Resolução de problemas com pensamento lógico  
+- 🎯 Organização e foco em resultados  
+- 🚀 Proatividade e sede por conhecimento  
+- 💡 Criatividade e adaptabilidade  
 
-✔️ Trabalho em equipe colaborativo  
-✔️ Comunicação clara e empática  
-✔️ Resolução de problemas com pensamento lógico  
-✔️ Organização e foco em resultados  
-✔️ Proatividade e sede por conhecimento  
-✔️ Criatividade e adaptabilidade
-
-## Contact:
+## 📫 Contato:
 
 <p align="left">
   <a href="mailto:joaocarlosdev403@gmail.com?subject=interação dev&body=Olá,%20gostaria%20de%20falar%20com%20você." target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/joaoo_ot/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Instagram-444444?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/joaocarlosdev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
